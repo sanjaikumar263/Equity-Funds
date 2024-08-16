@@ -1,0 +1,33 @@
+.footer{
+    /* margin-top: 100px; */
+    border-top: lightslategray solid;
+    background-color:#10B981;
+    padding: 5%;
+    display: flex;
+    gap: 20px;
+}
+.dot{
+    padding: 0.3rem 2rem ;
+    border-radius: 1rem;
+}
+input{
+    border: none;
+    border-bottom: 2px solid rgb(0, 0, 0) ;
+    outline: none;
+}
+textarea{
+    outline: none;
+    border-bottom: 2px solid rgb(0, 0, 0) ;
+}
+
+
+/* .form{ */
+    /* background-color: rgb(255, 255, 255); */
+    /* margin-top: 4rem; */
+    /* box-shadow: -1px 0px 59px -5px rgba(16,185,129,0.61); */
+    /* padding-bottom: 40px; */
+/* } */
+/* .main{
+    background-image: linear-gradient(to bottom, #cbffdb, #cbffdb, #cbffdb, #cbffdb, #cbffdb);
+} */
+
